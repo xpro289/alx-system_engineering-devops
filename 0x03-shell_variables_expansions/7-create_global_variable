@@ -1,2 +1,2 @@
 #!/bin/bash
-exporL BEST= "School"
+export BEST= "School"
